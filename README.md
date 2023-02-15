@@ -1,4 +1,9 @@
-# threejs-webflow-template
+#thank you
+@MaelRuffini
+@ArmandSalle
+
+
+# threejs-webflow-template. ***Plus Barba, Plus GSAP, Plus Slick Slider***
 Fork template
 open github desktop on your local machine
 open in Visual Code
