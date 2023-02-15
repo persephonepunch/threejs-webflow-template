@@ -10,7 +10,7 @@ Add script and build preview.
 
 
 Vite Webflow Barba GSAP and Three JS
-
+<pre>
 Add to Global Code
 <script src="https://barba-gsap-threejs.netlify.app/assets/js/main.js">
   
@@ -19,12 +19,12 @@ Add to Global Code
   
   
 </script>
-
+</pre>
 
 
 
 Publish to Netlify and add location of source code for main.js
-
+<pre>
 <script>
   (function () {
     const LOCALHOST_URL = [
@@ -76,3 +76,4 @@ Publish to Netlify and add location of source code for main.js
       })
   })()
 </script>
+</pre>
