@@ -1,8 +1,22 @@
 #thank you
+
 @MaelRuffini
+
 @ArmandSalle
 
-*****Three js glb models*******
+#Webflow and Three JS
+
+@dieg0liv
+
+@Andersonmancini
+
+@pixotronics
+
+
+
+[https://techblog-ysl.webflow.io/animation-stacks]
+
+*****Three js glb models******
 https://www.youtube.com/live/tvjVhXfE9IM?feature=share
 Webflow and Three JS plus Draco Compression. PBR without large files
 
