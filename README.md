@@ -2,6 +2,10 @@
 @MaelRuffini
 @ArmandSalle
 
+*****Three js glb models*******
+https://www.youtube.com/live/tvjVhXfE9IM?feature=share
+Webflow and Three JS plus Draco Compression. PBR without large files
+
 
 # threejs-webflow-template. ***Plus Barba, Plus GSAP, Plus Slick Slider***
 Fork template
